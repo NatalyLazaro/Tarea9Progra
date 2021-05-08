@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vk8wUac4Ul5xfiQ/0JNvtHd6rY/Xi24RzqI4yZAW3RDEeNyT3XWmEis5Gd0qcM178b7/oXRtjHr7DXttCGhY4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arlet\\Desktop\\Progrmación III\\StackTest\\StackTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arlet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
